@@ -285,3 +285,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+*{
+    font-family: 'GFS Didot', serif;
+}
