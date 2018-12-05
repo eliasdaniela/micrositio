@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: #ffffff;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -288,7 +288,7 @@ textarea {
 
 *{
     font-family: 'GFS Didot', serif;
-    background-color: #efe1e2;
+    background-color: #ffffff;
 }
 
 .padding-home{
