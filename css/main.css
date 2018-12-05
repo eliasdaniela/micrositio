@@ -288,4 +288,17 @@ textarea {
 
 *{
     font-family: 'GFS Didot', serif;
+    background-color: #efe1e2;
+}
+
+.padding-home{
+    padding-top: 38%;
+}
+
+.padding-menu{
+    margin: 0 auto;
+    position: relative;
+}
+.padding-footer-menu{
+    padding-top: 10%;
 }
